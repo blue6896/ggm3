@@ -26,7 +26,6 @@
 cd $PBS_O_WORKDIR
 
 # run the program using the relative path
-cd /code
 Rscript runestimationSIMUholdoutWRcase1.R
 
 exit 0
