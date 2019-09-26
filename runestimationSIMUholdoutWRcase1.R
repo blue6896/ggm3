@@ -1,3 +1,8 @@
+install.packages('corpcor', dependencies=T)
+install.packages('randomForest', dependencies=T)
+install.packages('glmnet', dependencies=T)
+install.packages('SparseM', dependencies=T)
+install.packages('dendextend', dependencies=T)
 
   set.seed(100)
   source('metalsimuestimationholdout2WR.R')
