@@ -13,6 +13,7 @@ each simulated case
 
 metalsimuestimationholdout2WR.R estimates prediction error after 
 predicting an outcome. 
+You can run this R script using metalsimuestimationholdout2WR.sh or run.sh 
 runestimationSIMUholdoutWRcase#.R
 (#= 1-5, each case with different coefficients between features 
 in the subnetwork and an outcome is implemented)
