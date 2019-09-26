@@ -26,6 +26,7 @@
 cd $PBS_O_WORKDIR
 
 # run the program using the relative path
+# run the program in R version >= 3.5.0 and in the right directory  
 Rscript runestimationSIMUholdoutWRcase1.R
 
 exit 0
