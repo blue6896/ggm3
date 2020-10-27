@@ -1,0 +1,25 @@
+------------------------- Prologue ----------------------------
+         Started: Tue Jul  7 10:55:55 EDT 2020
+          Job ID: 1806801.pearl.hpcc.dartmouth.edu
+         User ID: jwoo
+        Group ID: BioSci
+        Job Name: runestimationSIMUholdoutWRcase4.sh
+ Resources Req'd: neednodes=1,walltime=01:00:00,nodes=1
+      Queue Name: default
+    Account Name: 
+------------------------- Prologue ----------------------------
+
+
+------------------------- Epilogue ----------------------------
+        Finished: Tue Jul  7 10:56:06 EDT 2020
+          Job ID: 1806801.pearl.hpcc.dartmouth.edu
+         User ID: jwoo
+        Group ID: BioSci
+        Job Name: runestimationSIMUholdoutWRcase4.sh
+      Session ID: 599
+ Resources Req'd: neednodes=1,walltime=01:00:00,nodes=1
+  Resources Used: cput=00:00:10,vmem=485564kb,walltime=00:00:12,mem=48228kb,energy_used=0
+      Queue Name: default
+    Account Name: 
+------------------------- Epilogue ----------------------------
+

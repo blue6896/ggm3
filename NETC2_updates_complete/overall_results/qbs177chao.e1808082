@@ -1,0 +1,60 @@
+randomForest 4.6-14
+Type rfNews() to see new features/changes/bug fixes.
+Loading required package: Matrix
+Loading required package: foreach
+Loaded glmnet 2.0-18
+
+
+Attaching package: 'SparseM'
+
+The following object is masked from 'package:base':
+
+    backsolve
+
+
+---------------------
+Welcome to dendextend version 1.12.0
+Type citation('dendextend') for how to cite the package.
+
+Type browseVignettes(package = 'dendextend') for the package vignette.
+The github page is: https://github.com/talgalili/dendextend/
+
+Suggestions and bug-reports can be submitted at: https://github.com/talgalili/dendextend/issues
+Or contact: <tal.galili@gmail.com>
+
+	To suppress this message use:  suppressPackageStartupMessages(library(dendextend))
+---------------------
+
+
+Attaching package: 'dendextend'
+
+The following object is masked from 'package:stats':
+
+    cutree
+
+Loading required package: lattice
+
+Attaching package: 'mice'
+
+The following objects are masked from 'package:base':
+
+    cbind, rbind
+
+
+Attaching package: 'grpreg'
+
+The following object is masked from 'package:MASS':
+
+    select
+
+
+Attaching package: 'igraph'
+
+The following objects are masked from 'package:stats':
+
+    decompose, spectrum
+
+The following object is masked from 'package:base':
+
+    union
+

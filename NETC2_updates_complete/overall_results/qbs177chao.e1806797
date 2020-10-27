@@ -1,0 +1,6 @@
+Error in source("metalsimuestimationholdout2WR.R") : 
+  metalsimuestimationholdout2WR.R:1:9: unexpected symbol
+1: B0;136;0cmetalsimuestimationholdout2WR
+            ^
+Execution halted
+TERM environment variable not set.

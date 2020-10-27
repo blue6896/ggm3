@@ -1,0 +1,25 @@
+------------------------- Prologue ----------------------------
+         Started: Tue Jul  7 10:16:08 EDT 2020
+          Job ID: 1806797.pearl.hpcc.dartmouth.edu
+         User ID: jwoo
+        Group ID: BioSci
+        Job Name: qbs177chao
+ Resources Req'd: nodes=1:ppn=1,walltime=56:00:00,neednodes=1:ppn=1
+      Queue Name: default
+    Account Name: 
+------------------------- Prologue ----------------------------
+
+
+------------------------- Epilogue ----------------------------
+        Finished: Tue Jul  7 10:16:10 EDT 2020
+          Job ID: 1806797.pearl.hpcc.dartmouth.edu
+         User ID: jwoo
+        Group ID: BioSci
+        Job Name: qbs177chao
+      Session ID: 30788
+ Resources Req'd: nodes=1:ppn=1,walltime=56:00:00,neednodes=1:ppn=1
+  Resources Used: cput=00:00:01,vmem=117468kb,walltime=00:00:04,mem=640kb,energy_used=0
+      Queue Name: default
+    Account Name: 
+------------------------- Epilogue ----------------------------
+
