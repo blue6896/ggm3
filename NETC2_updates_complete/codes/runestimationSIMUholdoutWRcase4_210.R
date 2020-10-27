@@ -1,0 +1,83 @@
+set.seed(100)
+  source('metalsimuestimationholdout2WR.R')
+ # metalsimuestimation('c4')
+#  metalsimuestimation('c5')
+metalsimuestimationholdout2WR('c9',filenamess='SA210')
+
+
+sdfsfsdfds
+  print('1')
+  metalsimuestimation2('c1',filenamess='SC1to4')
+  print('2')
+  metalsimuestimation2('c2',filenamess='SC1to4')
+  print('3')
+  metalsimuestimation2('c3',filenamess='SC1to4')
+  print('4')
+  metalsimuestimation2('c4',filenamess='SC1to4')
+  print('5')
+  metalsimuestimation2('c5',filenamess='SC5')
+  print('6')
+  metalsimuestimation2('c6',filenamess='SC6')
+  print('7')
+  metalsimuestimation2('c6',filenamess='SC9')
+  print('10')
+  metalsimuestimation2('c6',filenamess='SC10')
+  print('11')
+  metalsimuestimation2('c1',filenamess='SC11')
+  print('12')
+  metalsimuestimation2('c1',filenamess='SC12')
+  print('13') # clusters from 9 to 6 
+  metalsimuestimation2('c1',filenamess='SC13')
+  print('14') # clusters from 9 to 3 
+  metalsimuestimation2('c1',filenamess='SC14')
+  
+  print('15')
+  metalsimuestimation2('c1',filenamess='SC15')
+  print('16')
+  metalsimuestimation2('c1',filenamess='SC16')
+  print('17')
+  metalsimuestimation2('c1',filenamess='SC17')
+  print('18')
+  metalsimuestimation2('c1',filenamess='SC18')
+  print('19')
+  metalsimuestimation2('c1',filenamess='SC19')
+  print('22')
+  metalsimuestimation2('c6',filenamess='SC22')
+  print('23')
+  metalsimuestimation2('c6',filenamess='SC23')
+  
+  print('24')
+  metalsimuestimation2('c5',filenamess='SC24')
+  print('25')
+  metalsimuestimation2('c5',filenamess='SC25')
+  print('26')
+  metalsimuestimation2('c5',filenamess='SC26')
+  print('27')
+  metalsimuestimation2('c5',filenamess='SC27')
+ 
+  
+  print('30')
+  metalsimuestimation2('c1',filenamess='SC30')
+  print('31')
+  metalsimuestimation2('c1',filenamess='SC31')
+  print('32')
+  metalsimuestimation2('c1',filenamess='SC32')
+  
+  
+  print('huuuuuu')
+  
+  print('28')
+  metalsimuestimation2('c5',filenamess='SC28')
+  print('29')
+  metalsimuestimation2('c5',filenamess='SC29')
+  
+  metalsimuestimation2('c1',filenamess='SC7')
+  print('8')
+  metalsimuestimation2('c1',filenamess='SC8')
+  print('9')
+  print('20')
+  metalsimuestimation2('c1',filenamess='SC20')
+  print('21')
+  metalsimuestimation2('c1',filenamess='SC21')
+  
+ 

@@ -1,0 +1,31 @@
+case1: 1806906.pearl.hpcc.dartmouth. qbs177chao       jwoo            55:00:42 R default
+case3:1806911.pearl.hpcc.dartmouth. qbs177chao       jwoo            55:00:34 R default
+case4:1806913.pearl.hpcc.dartmouth. qbs177chao       jwoo            55:00:13 R default
+case5:1806915.pearl.hpcc.dartmouth. qbs177chao       jwoo            55:00:02 R default
+case2:1807491.pearl.hpcc.dartmouth. qbs177chao       jwoo            21:06:59 R default
+
+
+20200710
+
+case1: 1808082.pearl.hpcc.dartmouth. qbs177chao       jwoo            00:01:14 R default
+1808083.pearl.hpcc.dartmouth. qbs177chao       jwoo            00:01:14 R default
+1808084.pearl.hpcc.dartmouth. qbs177chao       jwoo            00:01:13 R default
+1808085.pearl.hpcc.dartmouth. qbs177chao       jwoo            00:01:13 R default
+1808087.pearl.hpcc.dartmouth. qbs177chao       jwoo            00:00:32 R default
+
+
+
+
+case1: 1808088.pearl.hpcc.dartmouth. qbs177chao       jwoo            00:14:57 R default
+case2: 1808089.pearl.hpcc.dartmouth. qbs177chao       jwoo            00:15:36 R default
+case3: 1808090.pearl.hpcc.dartmouth. qbs177chao       jwoo            00:15:35 R default
+case4: 1808091.pearl.hpcc.dartmouth. qbs177chao       jwoo            00:15:34 R default
+case5: 1808095.pearl.hpcc.dartmouth. qbs177chao       jwoo            00:01:26 R default
+
+case2&3 240 samples: 1810165.pearl.hpcc.dartmouth. qbs177chao       jwoo            00:00:00 R default
+case4&5 240 samples: 1810166.pearl.hpcc.dartmouth. qbs177chao       jwoo                   0 R default
+
+case2 210 samples: 1813643.pearl.hpcc.dartmouth. qbs177chao       jwoo                   0 Q default
+case3 210 samples: 1813646.pearl.hpcc.dartmouth. qbs177chao       jwoo                   0 Q default
+case4 210 samples: 1813648.pearl.hpcc.dartmouth. qbs177chao       jwoo                   0 Q default
+case5 210 samples: 1813649.pearl.hpcc.dartmouth. qbs177chao       jwoo                   0 Q default
